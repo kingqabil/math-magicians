@@ -19,26 +19,27 @@ This project is part of the Microverse curriculum Module 3 Block 1. The main obj
 - Lighthouse
 - Webpack
 
-## Getting Started
+## Installation
 
-To get a local copy of this project:
+Go to your terminal, navigate to your working directory and run
 
-Clone this repository or download the Zip folder:
-```
-https://github.com/kingqabil/math-magicians.git
-```
+`git clone https://github.com/kingqabil/math-magicians.git`
 
-In the project directory, you can run:
+After that navigate to the newly created folder
 
-### `npm start`
+`cd math-magicians`
 
-### `npm test`
+You now have access to the files.
+To install necessary dependencies run
 
-### `npm run build`
+`npm install`
 
-### `npm run eject`
+Start a local server running the command
 
-### `npm run build` fails to minify
+`npm start`
+
+You should now have the project running locally on a dev server.
+
 
 
 
