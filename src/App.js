@@ -1,11 +1,18 @@
 import { Component } from 'react';
 import Calculator from './components/calculator';
 
-/* eslint-disable react/prefer-stateless-function */
 class App extends Component {
-  /* eslint-enable react/prefer-stateless-function */
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
+
   render() {
-    return <Calculator />;
+    return (
+      <div className="App">
+        <Calculator />
+      </div>
+    );
   }
 }
 
