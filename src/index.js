@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './components/Home';
-import Quote from './components/Quote';
 import Calculator from './components/Calculator';
+import Quote from './components/Quote';
 
 const rootElement = document.getElementById('root');
 
