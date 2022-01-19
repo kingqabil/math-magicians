@@ -11,9 +11,9 @@ const rootElement = document.getElementById('root');
 ReactDOM.render(
   <BrowserRouter>
     <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="calculator" element={<Calculator />} />
-      <Route path="quotes" element={<Quote />} />
+      <Route path='/' element={<Home />} />
+      <Route path='calculator' element={<Calculator />} />
+      <Route path='quotes' element={<Quote />} />
     </Routes>
   </BrowserRouter>,
   rootElement,
