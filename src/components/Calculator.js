@@ -1,3 +1,4 @@
+/* eslint-disable react/button-has-type */
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 import Nav from './Nav';
