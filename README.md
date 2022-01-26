@@ -8,6 +8,11 @@ This project is part of the Microverse curriculum Module 3 Block 1. The main obj
 ## Desktop 💻
 <img src="app.png" alt="DesktopLayout" width="100%">
 
+## Live Demo 👀
+
+- [Live Demo Horuku](https://math-magicians11.herokuapp.com/)
+- [Live Demo Netlify](https://stupefied-hopper-0e1d24.netlify.app/)
+
 ## Built With
 
 - Html/Css
